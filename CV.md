@@ -10,7 +10,7 @@ Location: Ho Chi Minh, Viet Nam
 
 ## Professional Summary
 
-Results-driven Software Engineer with 5+ years of expertise in full-stack development, demonstrating a proven track record of delivering high-impact solutions in fintech, blockchain, and social media domains. Proven experience in architecting scalable solutions that handle millions of requests while maintaining optimal performance. AWS Certified Solutions Architect Associate with deep expertise in cloud infrastructure, mobile development, and emerging technologies including AI integration.
+Results-driven Software Engineer with 5+ years of expertise in full-stack development, demonstrating a proven track record of delivering high-impact solutions in fintech, blockchain, and social media domains. Proven experience in architecting scalable solutions that handle large of requests while maintaining optimal performance. AWS Certified Solutions Architect Associate in cloud infrastructure, mobile development, and emerging technologies including AI integration.
 
 ## Education
 
@@ -22,9 +22,9 @@ _Faculty of Information Technology_
 
 ### Software Engineer | Infina (2021 - Present)
 
-_Leading Vietnamese Fintech Company_
+_Vietnamese Fintech Company_
 
-- Developed comprehensive stock trading features including:
+- Developed stock trading features including:
   - Real-time stock listing and market data display
   - Advanced order placement system (Market Price, Limit Order, ATC, ATO orders)
   - Order management and transaction history
@@ -32,24 +32,22 @@ _Leading Vietnamese Fintech Company_
 - Implemented mutual fund trading functionality:
   - Integration with Dragon Capital for mutual fund trading
   - Buy/sell order processing for mutual funds
-  - Fund performance tracking and reporting
+- Integrate insurance features with PVI
+- Integrate savings features with Kafi
+- Working with APIs for features from JBSV
 - Architected and implemented full-stack solutions utilizing React Native, GraphQL, and REST APIs
 - Led AI integration initiative for customer service automation
-- Established and maintained CI/CD pipelines for mobile application builds
-- Implemented Firebase features for development and testing
-- Successfully integrated multiple third-party financial services (PVI, VietStock, Kafi, JBSV, Dragon Capital) into a unified platform
+- Established and maintained CI/CD pipelines for mobile application builds with SemaphoreCI, Firebase, TestFlight
 - Implemented Domain Driven Design and Clean Architecture principles using Nx for monorepo management
 - Maintained code quality through comprehensive unit testing with Jest
-- **Technologies**: React Native, TypeScript, NestJS, PostgreSQL, GraphQL, Firebase, Jest, CI/CD
+- **Technologies**: React Native, TypeScript, NestJS, PostgreSQL, GraphQL, Firebase, Jest, CI/CD, Redis, DDD, Microservices, AWS, OpenAI
 
-### DevOps Engineer | Nodepay (2023 - Present)
+### DevOps Engineer | Nodepay (2024 - Present)
 
-_AI-Powered Blockchain Gaming Platform_
+_AI-Powered Blockchain Platform_
 
 - Managed infrastructure and optimization for a platform serving 500k+ users
-- Enhanced system architecture to handle 10M+ requests
-- Implemented comprehensive monitoring systems for AI-powered blockchain gaming features
-- **Technologies**: AWS, Monitoring Tools, Blockchain Technologies
+- **Technologies**: AWS, Blockchain Technologies, Digital Ocean
 
 ### Software Engineer | KMS Technology (2019 - 2021)
 
@@ -71,17 +69,17 @@ _Digital Storytelling Platform_
 ## Technical Expertise
 
 - **Frontend Development**: React Native, ReactJS, NextJS, HTML5, CSS3
-- **Backend Development**: NodeJS, NestJS, KoaJS, GraphQL
-- **Database Management**: PostgreSQL, MongoDB
-- **Cloud & Infrastructure**: AWS (Certified), Digital Ocean, Firebase
+- **Backend Development**: NodeJS, NestJS, KoaJS
+- **Database Management**: PostgreSQL, MongoDB, Prisma
+- **Cloud & Infrastructure**: AWS (Certified), Digital Ocean, Firebase, SemaphoreCI
 - **Programming Languages**: JavaScript, TypeScript
-- **Development Tools**: Prisma, Git, REST APIs, CI/CD
+- **APIs**: REST APIs, GraphQL, Socket
 - **Architecture & Methodologies**: Domain Driven Design, Clean Architecture, Nx Monorepo, Microservices
 - **Testing**: Jest, Unit Testing
 
 ## Certifications
 
-- AWS Solutions Architect Associate (SAA) - 2024
+- [AWS Solutions Architect Associate (SAA) - 2024](https://www.credly.com/badges/c44e2833-7219-4733-a0c1-68d6a61c9cd4/public_url)
 
 ## Professional Strengths
 
