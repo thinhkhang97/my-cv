@@ -1,8 +1,6 @@
 # KHANG NGUYEN
 
-<div align="right">
-  ![Profile Photo](your-photo-url-here)
-</div>
+<img src="assets/portfolio-avatar.jpeg" width="200" alt="Khang Nguyen" align="right"/>
 
 ## Contact Information
 
