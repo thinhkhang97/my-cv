@@ -47,7 +47,7 @@ _Vietnamese Fintech Company_
 _AI-Powered Blockchain Platform_
 
 - Managed infrastructure and optimization for a platform serving 500k+ users
-- **Technologies**: AWS, Blockchain Technologies, Digital Ocean
+- **Technologies**: AWS, Blockchain Technologies, Digital Ocean, CloudFlare
 
 ### Software Engineer | KMS Technology (2019 - 2021)
 
